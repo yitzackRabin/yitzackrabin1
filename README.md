@@ -1,16 +1,17 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
 
-I am Paul Odhiambo, currently pursuing my bachelor's degree majoring in computer science from [Jommo Kenyatta University](https://jkuat.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Yitzack Rabin, currently pursuing my bachelor's degree majoring in computer science from [Maseno University](https://maseno.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
-  <a href="https://twitter.com/paulodhiamboh">
+  <a href="https://twitter.com/yitzackrabin">
     <img src="https://img.shields.io/twitter/follow/paulodhiamboh?paulodhiamboh?color=green&logo=twitter" alt="twitter" />
   </a>
   <a href="https://github.com/paulodhiambo/paulodhiambo">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo" alt="page views" />
   </a>
-  <a href="https://www.reddit.com/user/paulodhiambo">
-    <img alt="Reddit User Paul Odhiambo" src="https://img.shields.io/reddit/user-karma/combined/paulodhiambo?label=paul&logo=reddit">
+  <a href="https://www.reddit.com/user/yitzackrabin
+           ">
+    <img alt="Reddit User Yitzack Rabin" src="https://img.shields.io/reddit/user-karma/combined/paulodhiambo?label=paul&logo=reddit">
   </a>
   <a href="https://github.com/paulodhiambo?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/paulodhiambo?color=green&logo=github">
