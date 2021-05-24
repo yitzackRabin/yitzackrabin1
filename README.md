@@ -2,10 +2,7 @@
 I am Yitzack Rabin, currently pursuing my bachelor's degree majoring in computer science from [Maseno University](https://maseno.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
-  <a href="https://twitter.com/yitzackrabin">
-    <img src="https://img.shields.io/twitter/follow/paulodhiamboh?paulodhiamboh?color=green&logo=twitter" alt="twitter" />
-
-  <a href="https://www.reddit.com/user/yitzackrabin
+   <a href="https://www.reddit.com/user/yitzackrabin
            ">
     <img alt="Reddit User Yitzack Rabin" src="https://img.shields.io/reddit/user-karma/combined/paulodhiambo?label=paul&logo=reddit">
    <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white">
