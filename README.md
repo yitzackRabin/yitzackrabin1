@@ -1,4 +1,3 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/paulodhiambo/paulodhiambo/master/wave.gif" width="30px">
 
 I am Yitzack Rabin, currently pursuing my bachelor's degree majoring in computer science from [Maseno University](https://maseno.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -9,15 +8,7 @@ I am Yitzack Rabin, currently pursuing my bachelor's degree majoring in computer
   <a href="https://www.reddit.com/user/yitzackrabin
            ">
     <img alt="Reddit User Yitzack Rabin" src="https://img.shields.io/reddit/user-karma/combined/paulodhiambo?label=paul&logo=reddit">
-  </a>
-  <a href="https://github.com/paulodhiambo?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/paulodhiambo?color=green&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/paulodhiambo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://stackoverflow.com/users/11970826/odhiambopaul">
-    <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+   <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white">
   </a>
 </p>
 
