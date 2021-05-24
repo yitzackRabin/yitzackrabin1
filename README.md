@@ -5,10 +5,7 @@ I am Yitzack Rabin, currently pursuing my bachelor's degree majoring in computer
 <p align="left">
   <a href="https://twitter.com/yitzackrabin">
     <img src="https://img.shields.io/twitter/follow/paulodhiamboh?paulodhiamboh?color=green&logo=twitter" alt="twitter" />
-  </a>
-  <a href="https://github.com/paulodhiambo/paulodhiambo">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=paulodhiambo.paulodhiambo" alt="page views" />
-  </a>
+
   <a href="https://www.reddit.com/user/yitzackrabin
            ">
     <img alt="Reddit User Yitzack Rabin" src="https://img.shields.io/reddit/user-karma/combined/paulodhiambo?label=paul&logo=reddit">
